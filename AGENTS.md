@@ -28,3 +28,8 @@ use the editor.
   own key and store it in Secrets.
 - **Secrets.** Lovable manages them. Do not put secret values in the repo.
 <!-- LOVABLE:END -->
+
+- Keep this recruitment campaign as one scrollable index page with shared section IDs because its primary actions scroll directly to roles and the application.
+- Keep recruitment content and the application schema in a browser-safe shared module so form and server validation use the same rules.
+- Accept applications through a validated public server function using an insert-only publishable client; never expose applicant reads to visitors.
+- Define campaign styling and button variants in the global design system to keep borders, colours, and hard shadows consistent.
